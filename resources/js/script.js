@@ -136,7 +136,7 @@ elements.menu3.innerHTML = 'Why Keyless ';
 elements.menu4.innerHTML = 'Sign up ';
 elements.longCopy.innerHTML = 'Automatic Lock up ' 
 elements.naslov.innerHTML="Kako radi ?" 
-elements.naslovRuski.innerHTML="Treba <br> vam Prevodilac?"    
+elements.naslovRuski.innerHTML="Treba <br> vam Zastita?"    
     
 }
 else if (btn2){
@@ -146,7 +146,7 @@ elements.menu3.innerHTML = 'Почему без ключа ';
 elements.menu4.innerHTML = 'Зарегистрироваться ';        
 elements.longCopy.innerHTML='Automatkso zakljuvanje.'    
 elements.naslov.innerHTML= 'Kak Rabotaet?';    
-elements.naslovRuski.innerHTML="Тебе это нужно <br> Переводчик?"  ;   
+elements.naslovRuski.innerHTML="Тебе это нужно <br> защита?";   
     
 }    
     
